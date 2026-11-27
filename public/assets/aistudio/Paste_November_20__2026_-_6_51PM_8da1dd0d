@@ -1,0 +1,1384 @@
+# WALTER'S LANDSCAPING — PREMIUM WEBSITE REDESIGN
+
+## ROLE & OBJECTIVE
+
+Act as an award-winning creative director, premium landscape architecture website designer, senior UI/UX designer, conversion strategist, motion designer, SEO specialist, and experienced React developer.
+
+Your task is to completely redesign the website for:
+
+**WALTER'S LANDSCAPING**
+
+Official website: https://walterslandscaping.com/
+
+Instagram: https://www.instagram.com/walterslandscaping/
+
+Facebook: https://www.facebook.com/on.walterslandscaping
+
+Business location: Stouffville, Ontario, Canada.
+
+Phone: 905-887-0700
+
+Email: office@walterslandscaping.com
+
+This project is a premium website redesign DEMO created by InoDo.
+
+The final result must look like a custom-designed, award-worthy landscape architecture and outdoor living website.
+
+Do not produce a generic landscaping template.
+
+---
+
+# 01. CRITICAL PROJECT REQUIREMENT — ONE HOMEPAGE ONLY
+
+Build ONE complete, long-scrolling homepage.
+
+All business content must exist on the same homepage.
+
+Do not generate separate pages or routes.
+
+Do not generate:
+- Separate About page.
+- Separate Services page.
+- Separate Gallery page.
+- Separate Contact page.
+- Separate Plant Material page.
+- InoDo promotional pages.
+- Hire Me pages.
+- Additional demo pages.
+
+The navigation should use smooth-scroll anchors pointing to sections of the homepage.
+
+If visitors click About, Services, Gallery, or Contact, smoothly scroll them to the corresponding section.
+
+Every section must be fully developed and visually polished.
+
+Do not replace sections with placeholder content.
+
+Do not put any promotional messages for InoDo anywhere on the website.
+
+---
+
+# 02. BUSINESS RESEARCH & POSITIONING
+
+Understand the company's real competitive advantages before designing.
+
+Walter's Landscaping is a family-owned landscaping company established in 1954 by Walter Kuettel.
+
+Its history, craftsmanship, customer service, quality, and value are central to its identity.
+
+The company has grown from a small family operation into a full-service landscaping business.
+
+Its publicly described capabilities include:
+
+- Landscape design.
+- Landscape construction.
+- Garden creation.
+- Hardscaping.
+- Patios and decks.
+- Driveways and walkways.
+- Natural stone installations.
+- Retaining walls.
+- Water features.
+- Ponds and waterfalls.
+- Outdoor fire features.
+- Garden planting.
+- Seasonal planting.
+- Spring pruning.
+- Winterization.
+- Landscape maintenance.
+- Tree planting.
+- Outdoor living spaces.
+
+The business also operates a tree farm in Newmarket, growing nursery stock used in its landscape projects.
+
+The company serves residential and commercial properties throughout Toronto and the Greater Toronto Area.
+
+Its family business story, experienced teams, integrated design and construction capabilities, and tree farm are important differentiators.
+
+## THE MAIN POSITIONING
+
+Do not position Walter's as just another landscaping contractor.
+
+Position it as an experienced, established, family-owned landscape design and construction company that can guide customers from an initial landscape concept through construction, planting, and ongoing care.
+
+### Main competitive advantage
+
+"FROM THE FIRST DESIGN IDEA TO THE FINISHED LANDSCAPE."
+
+This should be the central marketing message.
+
+Show how design, construction, planting, and maintenance work together.
+
+Make this advantage obvious within the first few seconds of visiting the website.
+
+---
+
+# 03. CREATIVE DESIGN DIRECTION
+
+Create a sophisticated combination of:
+
+- Luxury landscape architecture.
+- Contemporary outdoor living.
+- Premium residential design.
+- Modern architectural studios.
+- Editorial website layouts.
+- Cinematic garden photography.
+- Elegant portfolio presentations.
+- Bold typography.
+- Sophisticated motion design.
+
+The overall visual personality:
+
+Premium, established, confident, natural, architectural, elegant, and modern.
+
+The design should communicate decades of experience without looking old-fashioned.
+
+Combine the credibility of an established family business with the visual quality of a modern creative studio.
+
+### Visual inspiration
+
+Use the design principles of:
+- Premium architecture studio websites.
+- High-end residential landscape portfolios.
+- Contemporary editorial design.
+- Luxury outdoor living brands.
+- Modern creative agency websites.
+
+Do not copy any particular website.
+
+Create an original Walter's identity.
+
+Avoid:
+- Generic landscaping templates.
+- Repetitive three-column card layouts.
+- Excessive rounded cards.
+- Cheap gradients.
+- Random floating shapes.
+- Cartoon illustrations.
+- Overused glassmorphism.
+- Generic corporate stock graphics.
+- Tiny typography.
+- Overcrowded sections.
+- Excessive decorative icons.
+
+Use bold visual hierarchy, strong imagery, asymmetric grids, elegant whitespace, and architectural compositions.
+
+---
+
+# 04. DESIGN SYSTEM
+
+## Brand color palette
+
+Preserve the original Walter's branding.
+
+PRIMARY NAVY:
+#24345F
+
+DEEP NAVY:
+#192647
+
+DARK NAVY:
+#121D39
+
+PRIMARY GARDEN GREEN:
+#00C52B
+
+DEEP GREEN:
+#008F24
+
+SOFT GREEN:
+#E6F3E7
+
+WHITE:
+#FFFFFF
+
+OFF WHITE:
+#F7F8F5
+
+LIGHT GREY:
+#ECEFED
+
+CHARCOAL:
+#242824
+
+MUTED GREY:
+#747B76
+
+SAGE:
+#A8B3A4
+
+### Color distribution
+
+- Navy: Main navigation, footer, and dramatic sections.
+- Bright green: CTAs, interactive highlights, active states, and selected typography.
+- White: Main content backgrounds.
+- Off white: Soft editorial sections.
+- Light grey: Supporting backgrounds.
+- Charcoal: Strong text.
+- Sage: Subtle secondary accents.
+
+Use the bright green strategically.
+
+It should feel like a premium garden-inspired brand accent, not a neon gaming website.
+
+Preserve the recognizable navy and green identity from the attached screenshot.
+
+## TYPOGRAPHY SYSTEM
+
+Use a strong three-font combination.
+
+### PRIMARY HEADINGS: SPACE GROTESK
+
+Weights:
+- 600
+- 700
+
+Use bold, oversized headlines.
+
+### BODY AND UI: DM SANS
+
+Weights:
+- 400
+- 500
+- 600
+
+Use for descriptions, navigation, labels, buttons, and supporting text.
+
+### EDITORIAL ACCENT: CORMORANT GARAMOND
+
+Use italic serif typography selectively.
+
+Apply it to:
+- Selected words in large headlines.
+- Small editorial statements.
+- Elegant quotation sections.
+
+Do not use serif typography everywhere.
+
+### Typography principles
+
+- Strong oversized headings.
+- Bold display typography.
+- Carefully controlled line breaks.
+- Large uppercase section labels.
+- Wide letter spacing for small labels.
+- High contrast between headings and body.
+- Responsive typography with clamp().
+- Consistent font hierarchy.
+
+Headlines should look powerful and confident.
+
+Avoid making the whole website look thin and minimal.
+
+---
+
+# 05. NAVIGATION
+
+Create a premium fixed top navigation.
+
+Use the original navy identity.
+
+Desktop layout:
+
+LEFT:
+Walter's Landscaping logo or text-based brand treatment.
+
+CENTER:
+HOME
+SERVICES
+GALLERY
+ABOUT
+OUR PROCESS
+CONTACT
+
+RIGHT:
+905.887.0700
+REQUEST A CONSULTATION
+
+Include social icons for Facebook and Pinterest if appropriate.
+
+### Navigation styling
+
+- Navy background.
+- White typography.
+- Green active indicator.
+- Clean spacing.
+- Elegant dropdown indicator where useful.
+- Subtle backdrop effect on scroll.
+- Smooth hover transitions.
+
+Do not overcrowd the navigation.
+
+### Mobile navigation
+
+Create a compact responsive header.
+
+Include:
+- Brand logo.
+- Mobile menu button.
+- Animated full-screen or dropdown menu.
+- Contact CTA.
+
+Ensure all navigation items scroll to the correct homepage sections.
+
+---
+
+# 06. HOMEPAGE STRUCTURE
+
+Build the following sections in this exact order.
+
+## SECTION 01 — CINEMATIC HERO
+
+This is the most important first impression.
+
+Create a full-screen cinematic hero using premium residential landscape photography.
+
+Visual direction:
+- Beautiful luxury backyard.
+- Natural stone patio.
+- Lush mature gardens.
+- Beautifully designed planting.
+- Outdoor living areas.
+- Contemporary residential architecture.
+- Natural sunlight and realistic greenery.
+
+The image should fill the majority of the screen.
+
+Use a subtle dark overlay where necessary.
+
+### Hero content
+
+Small eyebrow:
+
+CREATORS OF BEAUTIFUL GARDENS · EST. 1954
+
+Main headline:
+
+"MORE THAN
+LANDSCAPING.
+A LEGACY OF
+BEAUTIFUL OUTDOOR SPACES."
+
+Use oversized Space Grotesk ExtraBold.
+
+Highlight selected words in bright garden green.
+
+Supporting text:
+
+"From thoughtful landscape design to expert construction and seasonal care, we bring every part of your outdoor vision together."
+
+Primary CTA:
+
+EXPLORE OUR WORK
+
+Secondary CTA:
+
+REQUEST A CONSULTATION
+
+### Hero composition
+
+- Full-width cinematic photograph.
+- Large bold typography.
+- Small brand identity.
+- Minimal content.
+- Elegant scroll indicator.
+- A small "SINCE 1954" brand element.
+
+### Hero animation
+
+1. Background image reveals through an animated mask.
+2. Eyebrow fades upward.
+3. Headline reveals line by line.
+4. Green text accent animates into position.
+5. Supporting text enters.
+6. CTA buttons appear.
+7. Scroll indicator begins a subtle animation.
+
+Use subtle parallax on the background image.
+
+The hero must immediately communicate experience, quality, and complete landscape solutions.
+
+---
+
+## SECTION 02 — THE WALTER'S DIFFERENCE
+
+This section must communicate the company's strongest competitive advantage.
+
+Background: White.
+
+Small label:
+
+WHY WALTER'S
+
+Large headline:
+
+"ONE VISION.
+EVERY STEP.
+BEAUTIFULLY CONNECTED."
+
+Supporting copy:
+
+"Great landscapes are created when every detail works together. At Walter's, our design, construction, and planting teams work together to bring outdoor spaces to life, from the first ideas to the finished garden."
+
+### Create a visual three-part presentation
+
+01 — DESIGN
+
+Thoughtful landscape concepts shaped around the property, architecture, and the client's lifestyle.
+
+02 — CONSTRUCTION
+
+Experienced construction crews bring the design to life through quality workmanship and carefully selected materials.
+
+03 — PLANTING & CARE
+
+Beautiful planting, seasonal enhancements, and ongoing garden care help outdoor spaces thrive.
+
+### Visual direction
+
+Create three large editorial columns or connected horizontal panels.
+
+Use:
+- Large numbered labels.
+- Large landscape photography.
+- Bold headings.
+- Short descriptions.
+- Animated connecting lines.
+
+The three stages should feel like one connected service experience, not unrelated services.
+
+Make this the key differentiator of the homepage.
+
+---
+
+## SECTION 03 — SIGNATURE PROJECT GALLERY
+
+Background: Off White.
+
+Small label:
+
+SELECTED LANDSCAPES
+
+Large heading:
+
+"OUTDOOR SPACES.
+MADE EXTRAORDINARY."
+
+This must be one of the most visually impressive sections.
+
+Use genuine Walter's project photography from its official website and public galleries.
+
+Include visual categories such as:
+
+- Gardens & Planting.
+- Natural Stone & Stonework.
+- Patios & Outdoor Living.
+- Driveways & Walkways.
+- Water Features.
+- Outdoor Fireplaces.
+- Front Entrances.
+- Pool Surroundings.
+
+### Gallery layout
+
+Create an editorial asymmetric grid.
+
+Do not use equal-sized cards.
+
+Use:
+- One large featured project.
+- Two smaller supporting images.
+- One panoramic landscape image.
+- Additional varied image proportions.
+
+Use large images with minimal captions.
+
+### Interaction
+
+On hover:
+- Smooth image zoom.
+- Elegant green underline.
+- Project category appears.
+- Small animated arrow.
+
+On click:
+- Open a full-screen image lightbox.
+- Previous and next controls.
+- Accessible close control.
+- Smooth image transitions.
+
+### Important
+
+Do not invent client names, project locations, or project descriptions.
+
+Only use actual verified project images as completed Walter's projects.
+
+If external representative imagery is used, do not label it as an actual completed Walter's project.
+
+CTA:
+
+VIEW OUR WORK
+
+It must scroll to or interact with the homepage gallery, not open a separate page.
+
+---
+
+## SECTION 04 — SINCE 1954: OUR STORY
+
+Background: Deep Navy.
+
+Text: White.
+
+Accent: Garden Green.
+
+This section should be a signature brand storytelling moment.
+
+Small label:
+
+A FAMILY LEGACY
+
+Large headline:
+
+"ROOTED IN HISTORY.
+GROWING WITH PURPOSE."
+
+Use a large editorial "1954" as a visual element.
+
+### Content
+
+"Walter's Landscaping began in 1954 when Walter Kuettel brought his Swiss gardening training and passion for creating beautiful landscapes to Canada.
+
+What started as a small family operation grew through dedication, craftsmanship, and a commitment to exceptional customer service.
+
+Today, the family tradition continues through the next generation, with Gordon and Chris leading the business and experienced teams bringing landscape designs to life throughout the Greater Toronto Area."
+
+Include these historical milestones:
+
+1954 — Walter Kuettel establishes the business.
+
+1965 — The family and business move to a larger property in Thornhill.
+
+1989 — Gordon and Chris take over the business.
+
+TODAY — The company continues its family-owned tradition of landscape design, construction, and maintenance.
+
+### Visual presentation
+
+Create an elegant horizontal timeline on desktop.
+
+On mobile, convert it into a vertical timeline.
+
+Include:
+- Archival family/business imagery where available.
+- Mature landscape photography.
+- Oversized year typography.
+- Animated connecting lines.
+- Subtle image parallax.
+
+Do not invent additional historical events.
+
+---
+
+## SECTION 05 — LANDSCAPE SERVICES
+
+Background: White.
+
+Small label:
+
+WHAT WE DO
+
+Large heading:
+
+"FROM THE GROUND UP.
+EVERY DETAIL MATTERS."
+
+Make the services more informative and compelling than the existing website.
+
+Present services with detailed descriptions.
+
+### 01 — LANDSCAPE DESIGN
+
+"Every beautiful landscape begins with a thoughtful plan. Our design team works with your ideas, your property's character, and your lifestyle to create an outdoor environment that feels naturally connected to your home."
+
+### 02 — LANDSCAPE CONSTRUCTION
+
+"From patios and decks to natural stone installations and retaining walls, our construction team brings landscape concepts to life with careful attention to materials, detail, and craftsmanship."
+
+### 03 — GARDEN CREATION & PLANTING
+
+"Bring your outdoor space to life with carefully selected trees, shrubs, perennials, and garden combinations designed to complement your property."
+
+### 04 — PATIOS & OUTDOOR LIVING
+
+"Create inviting outdoor spaces for entertaining, relaxing, and enjoying your garden. Explore patio layouts, outdoor living arrangements, and thoughtfully integrated features."
+
+### 05 — WATER FEATURES
+
+"Add another dimension to your landscape with fountains, ponds, waterfalls, and water features that bring movement and atmosphere to your garden."
+
+### 06 — STONEWORK & WALKWAYS
+
+"Improve the structure and visual character of your property through natural stone, walkways, retaining walls, driveways, and other hardscape elements."
+
+### 07 — SEASONAL PLANTING & GARDEN CARE
+
+"Keep your outdoor space looking its best with seasonal planting, spring pruning, winterization, and garden maintenance services."
+
+### 08 — OUTDOOR FIRE FEATURES
+
+"Create a welcoming outdoor environment with thoughtfully integrated fire features and gathering spaces."
+
+### Visual presentation
+
+Avoid ordinary service cards.
+
+Use large horizontal editorial rows.
+
+Each service should contain:
+- Large number.
+- Bold title.
+- Detailed description.
+- Related landscape photograph.
+- Animated arrow.
+- Subtle hover interaction.
+
+Alternate image placement between rows.
+
+Selected services can reveal a large image when hovered.
+
+CTA:
+
+DISCUSS YOUR LANDSCAPE PROJECT
+
+---
+
+## SECTION 06 — THE WALTER'S TREE FARM
+
+This is an important differentiator that deserves its own section.
+
+Background: Soft Off White.
+
+Small label:
+
+GROWING OUR OWN ROOTS
+
+Large headline:
+
+"FROM OUR TREE FARM
+TO YOUR LANDSCAPE."
+
+Content:
+
+"Walter's operates its own tree farm in Newmarket, where a wide variety of nursery stock is grown and incorporated into landscape projects.
+
+This connection between growing and designing allows the team to work with plant material as an important part of the overall landscape vision."
+
+### Visual direction
+
+Create an immersive image-led section.
+
+Show:
+- Tree nursery rows.
+- Mature trees.
+- Nursery plants.
+- Garden planting.
+- Beautiful finished landscapes.
+
+Use a large panoramic tree farm image.
+
+Create a split-screen composition with a planting photograph.
+
+Add subtle horizontal image parallax.
+
+Do not invent the size of the farm, quantities of plants, or plant varieties that cannot be verified.
+
+This section should feel authentic and demonstrate the company's connection to its plant material.
+
+---
+
+## SECTION 07 — HOW WE WORK
+
+Background: White.
+
+Small label:
+
+FROM VISION TO REALITY
+
+Large heading:
+
+"YOUR LANDSCAPE JOURNEY.
+MADE SIMPLE."
+
+The existing website needs a clearer explanation of how customers move from an initial idea to a completed landscape.
+
+Create a visually strong process section.
+
+01 — INITIAL CONSULTATION
+
+Discuss the property, your ideas, priorities, and the type of outdoor space you want to create.
+
+02 — LANDSCAPE DESIGN
+
+Develop a design direction that considers your lifestyle, property, and outdoor requirements.
+
+03 — PLANNING & MATERIAL SELECTION
+
+Refine the landscape layout and consider suitable planting, stonework, and other materials.
+
+04 — CONSTRUCTION & INSTALLATION
+
+The construction team brings the agreed design to life through the relevant landscape work.
+
+05 — PLANTING & FINISHING DETAILS
+
+Complete the landscape with planting and the finishing elements appropriate to the project.
+
+06 — ONGOING GARDEN CARE
+
+Where required, seasonal planting, maintenance, pruning, and winterization help care for the landscape.
+
+### Visual treatment
+
+Use an animated horizontal timeline on desktop.
+
+Use a vertical timeline on mobile.
+
+Include:
+- Large step numbers.
+- Green progress line.
+- Small supporting images.
+- Bold titles.
+- Clear descriptions.
+- Scroll-triggered reveals.
+
+Do not invent exact project durations, guarantees, or fixed milestones.
+
+---
+
+## SECTION 08 — CUSTOMER EXPERIENCES
+
+Background: Deep Navy.
+
+Text: White.
+
+Accent: Green.
+
+Small label:
+
+THE WALTER'S EXPERIENCE
+
+Large heading:
+
+"BEAUTIFUL LANDSCAPES.
+LASTING RELATIONSHIPS."
+
+Use authentic customer testimonials from the company's official public website.
+
+Prioritize the real testimonials already published, including feedback from customers such as:
+
+- Tracy and Don R. — Toronto.
+- Brenda P. — Toronto.
+- Garry B. — Aurora.
+
+Use short, faithful excerpts.
+
+Do not rewrite testimonials in a way that changes their meaning.
+
+Display genuine names and locations only as published.
+
+### Visual layout
+
+- Large quotation typography.
+- One featured testimonial.
+- Two supporting testimonials.
+- Elegant slider interaction.
+- Green quotation accents.
+- Minimal navigation dots.
+
+Do not fabricate reviews, ratings, customer names, or review counts.
+
+---
+
+## SECTION 09 — SERVICE AREAS
+
+Background: Light Grey.
+
+Small label:
+
+WHERE WE WORK
+
+Large heading:
+
+"BRINGING BEAUTIFUL
+LANDSCAPES TO THE GTA."
+
+Content:
+
+"Based in Stouffville, Walter's Landscaping works with residential and commercial properties throughout Toronto and the Greater Toronto Area and surrounding communities."
+
+Present verified service locations from the business's public information.
+
+Use a sophisticated map-style visual or minimalist location diagram.
+
+Include only service locations that can be verified.
+
+Do not invent coverage areas.
+
+Create:
+- Elegant location markers.
+- Navy and green styling.
+- Large location typography.
+- Small supporting text.
+
+Avoid a broken embedded Google Map or an API-dependent map that does not work.
+
+---
+
+## SECTION 10 — CONSULTATION CTA
+
+Background: Full-width cinematic landscape photography.
+
+Use a dark navy overlay.
+
+Small label:
+
+LET'S CREATE SOMETHING BEAUTIFUL
+
+Large heading:
+
+"YOUR GARDEN.
+YOUR VISION.
+THE WALTER'S EXPERIENCE."
+
+Supporting text:
+
+"Ready to transform your outdoor space? Start with a conversation about your property, your ideas, and what is possible."
+
+Primary CTA:
+
+REQUEST A CONSULTATION
+
+Secondary CTA:
+
+CALL 905-887-0700
+
+Create:
+- Large typography.
+- Strong image composition.
+- Green CTA.
+- Elegant reveal animation.
+- Subtle parallax.
+
+---
+
+## SECTION 11 — CONTACT & CONSULTATION FORM
+
+Background: White.
+
+Create a beautiful two-column contact section.
+
+### Left column
+
+Small label:
+
+GET IN TOUCH
+
+Large heading:
+
+"LET'S START
+WITH YOUR IDEAS."
+
+Supporting text:
+
+"Tell us about your outdoor project and what you would like to create. The Walter's team can help you take the next step."
+
+Display verified details:
+
+WALTER'S LANDSCAPING
+
+Address:
+2686B Stouffville Road,
+Stouffville, Ontario, L4A 2J4, Canada.
+
+Phone:
+905-887-0700
+
+Email:
+office@walterslandscaping.com
+
+Office hours:
+Monday–Friday, 8:00 AM–5:00 PM.
+
+Add clickable phone and email links.
+
+Include Facebook and Instagram links.
+
+### Right column — consultation form
+
+Create a premium, simple inquiry form.
+
+Fields:
+
+1. Full Name — required.
+2. Email Address — required.
+3. Phone Number — optional.
+4. Property Location — optional.
+5. Type of Project — dropdown.
+6. Tell Us About Your Project — optional.
+
+Dropdown options:
+
+- Landscape Design.
+- Landscape Construction.
+- Patio & Outdoor Living.
+- Garden & Planting.
+- Water Features.
+- Stonework & Walkways.
+- Driveway.
+- Outdoor Fire Features.
+- Seasonal Planting & Maintenance.
+- Other.
+
+### Form experience
+
+- Minimal clean labels.
+- Spacious inputs.
+- Green focus states.
+- Accessible validation.
+- Clear error messages.
+- Loading state.
+- Proper success state after successful submission.
+
+Button:
+
+REQUEST A CONSULTATION
+
+If no backend is connected, implement a functional demo form interface and clearly mark where the production form integration is required.
+
+Never pretend an inquiry has been sent if it has not.
+
+---
+
+## SECTION 12 — FOOTER
+
+Background: Deep Navy.
+
+Text: White.
+
+Accent: Garden Green.
+
+Include:
+
+Walter's Landscaping logo or text brand.
+
+Short description:
+
+"Family owned and operated since 1954. Creating thoughtful landscapes and beautiful outdoor spaces throughout the Greater Toronto Area."
+
+Navigation links:
+- Home.
+- Services.
+- Gallery.
+- About.
+- Our Process.
+- Contact.
+
+Contact details.
+
+Social media links.
+
+Office hours.
+
+Closing brand statement:
+
+"CREATORS OF BEAUTIFUL GARDENS.
+SINCE 1954."
+
+Add an elegant Back to Top interaction.
+
+---
+
+# 07. ADVANCED MOTION & INTERACTION
+
+The website must have a premium motion design system.
+
+Use Framer Motion as the primary animation library.
+
+Use GSAP only when a more complex scroll-based interaction genuinely requires it.
+
+### Global animation system
+
+1. Cinematic hero entrance.
+2. Staggered text reveals.
+3. Word-by-word heading animations.
+4. Image clipping masks.
+5. Scroll-triggered section reveals.
+6. Subtle parallax.
+7. Animated navigation indicator.
+8. Portfolio image transitions.
+9. Service image reveals.
+10. Timeline progress animations.
+11. Testimonial slider.
+12. Elegant CTA interactions.
+13. Smooth section transitions.
+14. Back-to-top animation.
+
+### Signature interactions
+
+**HERO REVEAL**
+
+Reveal the background image with a smooth animated mask.
+
+**TYPOGRAPHY ANIMATION**
+
+Animate large headings line by line.
+
+**PORTFOLIO HOVER**
+
+Use subtle image zoom and elegant caption reveals.
+
+**CONNECTED SERVICES**
+
+Animate the connecting line between design, construction, and planting.
+
+**HISTORY TIMELINE**
+
+Reveal the milestones progressively as visitors scroll.
+
+**TREE FARM PARALLAX**
+
+Use slow, natural image movement.
+
+**PROCESS TIMELINE**
+
+Animate the progress indicator based on scroll position.
+
+### Animation quality
+
+Micro-interactions: 200–350ms.
+
+Text reveals: 600–900ms.
+
+Image reveals: 800–1200ms.
+
+Section transitions: 500–800ms.
+
+Use natural easing curves.
+
+Avoid excessive motion.
+
+Respect prefers-reduced-motion.
+
+Ensure the site remains smooth on mid-range mobile devices.
+
+---
+
+# 08. IMAGE AND ASSET STRATEGY
+
+This website depends heavily on photography.
+
+Prioritize genuine Walter's Landscaping images.
+
+Sources:
+- Official website.
+- Official project gallery.
+- Official Facebook.
+- Official Instagram.
+- Publicly available company project imagery.
+
+### Required visual categories
+
+1. Luxury backyard landscaping.
+2. Mature garden planting.
+3. Natural stone patios.
+4. Outdoor fireplaces.
+5. Waterfalls and ponds.
+6. Contemporary walkways.
+7. Driveway and front entrance projects.
+8. Tree nursery.
+9. Garden design.
+10. Landscape construction.
+
+### Image treatment
+
+Use:
+- Cinematic landscape photography.
+- Natural sunlight.
+- High-quality architectural images.
+- Realistic materials.
+- Lush but believable planting.
+- Balanced composition.
+- Responsive image cropping.
+
+Use a mixture of panoramic images, portrait photography, and square crops.
+
+Avoid repeatedly using the same image.
+
+### IMPORTANT IMAGE ACCURACY
+
+Do not present generic stock photography as completed Walter's projects.
+
+Use genuine project photographs in the gallery.
+
+If representative images are needed for visual sections, make sure they are not falsely identified as actual customer projects.
+
+Never invent client names or project locations.
+
+---
+
+# 09. SEO OPTIMIZATION
+
+Optimize the homepage for local landscape design and landscaping searches.
+
+Suggested SEO title:
+
+Walter's Landscaping | Landscape Design & Construction Toronto
+
+Suggested meta description:
+
+Walter's Landscaping has been creating beautiful outdoor spaces since 1954. Explore landscape design, construction, patios, planting, stonework, and garden services across Toronto and the GTA.
+
+### Keyword themes
+
+- Walter's Landscaping.
+- Landscaping Toronto.
+- Landscape design Toronto.
+- Landscape construction Toronto.
+- Landscaping Stouffville.
+- Landscape contractors GTA.
+- Garden design Toronto.
+- Patio construction.
+- Natural stone landscaping.
+- Outdoor living spaces.
+- Water features.
+- Seasonal planting.
+- Landscape maintenance.
+- Retaining walls.
+- Driveway and walkway landscaping.
+
+### Technical SEO
+
+Implement:
+- Semantic HTML5.
+- One H1 heading.
+- Proper H2 and H3 hierarchy.
+- Unique page title.
+- Meta description.
+- Open Graph metadata.
+- Canonical URL.
+- Descriptive image alt attributes.
+- LocalBusiness structured data.
+- XML sitemap.
+- robots.txt.
+- Internal anchor navigation.
+- Clean page structure.
+
+Use verified business details in structured data.
+
+Do not keyword-stuff.
+
+---
+
+# 10. PERFORMANCE & ACCESSIBILITY
+
+Optimize for excellent Core Web Vitals.
+
+Implement:
+- WebP and AVIF images.
+- Responsive image sizes.
+- Lazy loading below the fold.
+- Priority loading for hero image.
+- Font optimization.
+- Code splitting.
+- Avoid unnecessary dependencies.
+- Avoid cumulative layout shifts.
+- Efficient scroll animations.
+- Proper image dimensions.
+
+Accessibility:
+- WCAG 2.2 AA principles.
+- Keyboard navigation.
+- Accessible navigation.
+- Visible focus states.
+- Form labels.
+- Proper image alt text.
+- Sufficient color contrast.
+- Reduced motion support.
+- Accessible lightbox.
+
+---
+
+# 11. RESPONSIVE DESIGN
+
+Support:
+
+- 360px mobile.
+- 390px mobile.
+- 430px mobile.
+- 768px tablet.
+- 1024px laptop.
+- 1440px desktop.
+- 1920px desktop.
+
+Desktop:
+- Premium full-width navigation.
+- Cinematic hero.
+- Large editorial image layouts.
+- Asymmetric gallery.
+- Spacious sections.
+
+Tablet:
+- Reorganized layouts.
+- Adaptive navigation.
+- Balanced typography.
+
+Mobile:
+- Compact navigation.
+- Large readable headings.
+- Single-column image compositions.
+- Touch-friendly controls.
+- Responsive gallery.
+- Vertical timelines.
+- Simplified motion.
+- No horizontal overflow.
+
+Do not simply shrink desktop layouts.
+
+Design mobile layouts intentionally.
+
+---
+
+# 12. TECHNICAL STACK
+
+Build a real working React application.
+
+Preferred stack:
+
+- React.
+- TypeScript.
+- Vite.
+- Tailwind CSS.
+- Framer Motion.
+- GSAP when needed.
+- Lucide React.
+
+Build modular components:
+
+- Navigation.
+- MobileMenu.
+- HeroSection.
+- DifferenceSection.
+- PortfolioGallery.
+- Lightbox.
+- HistorySection.
+- ServicesSection.
+- TreeFarmSection.
+- ProcessTimeline.
+- TestimonialsSection.
+- ServiceAreasSection.
+- ConsultationCTA.
+- ContactForm.
+- Footer.
+
+Use reusable components and consistent design tokens.
+
+All homepage sections must be functional.
+
+All buttons must have real interactions.
+
+No dead navigation links.
+
+No unnecessary additional routes.
+
+---
+
+# 13. FINAL QUALITY CONTROL
+
+Before completing the project, verify the following.
+
+### BRAND
+
+[ ] Original navy and green identity preserved.
+[ ] Bold Space Grotesk typography.
+[ ] DM Sans body text.
+[ ] Editorial serif accents.
+[ ] Premium modern visual direction.
+
+### BUSINESS POSITIONING
+
+[ ] Since 1954 heritage is prominent.
+[ ] Family-owned identity is communicated.
+[ ] Design, construction, and planting are connected.
+[ ] Tree farm differentiator is highlighted.
+[ ] Services are explained clearly.
+[ ] GTA service area is presented.
+
+### DESIGN
+
+[ ] Cinematic hero.
+[ ] Strong competitive advantage section.
+[ ] Asymmetric portfolio.
+[ ] Historical timeline.
+[ ] Detailed services.
+[ ] Tree farm section.
+[ ] Clear process.
+[ ] Authentic testimonials.
+[ ] Consultation CTA.
+[ ] Premium contact form.
+
+### FUNCTIONALITY
+
+[ ] Navigation scrolls correctly.
+[ ] Mobile menu works.
+[ ] Gallery lightbox works.
+[ ] Testimonial interaction works.
+[ ] Contact form validation works.
+[ ] Phone link works.
+[ ] Email link works.
+[ ] Social links work.
+[ ] Back to Top works.
+
+### PERFORMANCE
+
+[ ] Responsive layouts.
+[ ] No horizontal overflow.
+[ ] No broken images.
+[ ] No console errors.
+[ ] Images optimized.
+[ ] Reduced motion supported.
+[ ] SEO metadata implemented.
+
+---
+
+# FINAL CREATIVE DIRECTION
+
+I want this website to look like an award-winning landscape architecture and outdoor living brand.
+
+The visual priorities are:
+
+1. Cinematic landscape photography.
+2. Bold, oversized typography.
+3. Premium navy and garden-green branding.
+4. Asymmetric editorial portfolio layouts.
+5. Sophisticated scroll animations.
+6. Strong presentation of the company's history since 1954.
+7. The unique connection between design, construction, and planting.
+8. Tree farm storytelling.
+9. Detailed and convincing service descriptions.
+10. Strong consultation conversion.
+
+The biggest improvement over the existing website must be its positioning.
+
+Visitors should immediately understand that Walter's offers an experienced, connected landscaping service — from design through construction and planting.
+
+Do not create a generic contractor website.
+
+Do not create additional pages.
+
+Do not create InoDo promotional content.
+
+Do not invent company details, customer reviews, projects, awards, or guarantees.
+
+Build ONE complete, visually exceptional, responsive homepage with all sections, animations, and working interactions.
+
+Start building the actual website, not just a design concept.

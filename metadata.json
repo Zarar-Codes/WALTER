@@ -1,0 +1,6 @@
+{
+  "name": "Walter's Landscaping",
+  "description": "Walter's Landscaping has been creating beautiful outdoor spaces since 1954. Explore landscape design, construction, patios, planting, stonework, and garden services across Toronto and the GTA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
